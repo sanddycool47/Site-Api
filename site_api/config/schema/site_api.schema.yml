@@ -1,0 +1,6 @@
+system.site:
+    mapping:
+        # Our field name is 'siteapikey'
+        siteapikey:
+            type: string
+            label: 'Site API Key'
